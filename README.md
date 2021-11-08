@@ -19,4 +19,3 @@ Below are the different syntax:
 ## Below are the commits from different team members
 
 * This is commit from Gaurav Nagpal
-* This is a second commit from Gaurav Nagpal 
